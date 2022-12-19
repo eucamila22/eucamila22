@@ -1,7 +1,7 @@
 ## Oiii eu sou a Camila, atualmente sou estudante de Programação Full-Stack na Kenzie Academy Brasil!
 <div align="center">
   <a href="https://github.com/eucamila22">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eucamila22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eucamila22&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
