@@ -26,10 +26,10 @@
 </div>   
 
 <div align="center">
-  <a href="(https://github.com/eucamila22/github-readme-stats">
+  <a href="https://github.com/eucamila22/github-readme-stats">
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=eucamila22&show_icons=true&theme=dracula" />
   </a>
-  <a href="(https://github.com/eucamila22/github-readme-stats">
+  <a href="https://github.com/eucamila22/github-readme-stats">
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucamila22&layout=compact&theme=dracula" />
   </a>
 </div> 
