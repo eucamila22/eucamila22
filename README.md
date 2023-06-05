@@ -41,11 +41,11 @@
   
 #
 
-**Estou aprendendo no momento:**
+<!-- **Estou aprendendo no momento:** -->
 
-![ANGULAR](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
-![JAVA](https://img.shields.io/badge/JAVA-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
-#
+<!-- ![ANGULAR](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp; -->
+<!-- ![JAVA](https://img.shields.io/badge/JAVA-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp; -->
+<!-- # -->
   
 <div align="center">
   <p align="centre"><b>Visitors Count</p>  
