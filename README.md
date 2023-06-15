@@ -12,9 +12,9 @@
   
 #
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eucamila22&bg_color=1e0114&color=b096ae&line=df3096&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eucamila22&bg_color=1e0114&color=b096ae&line=df3096&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
+# -->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eucamila22&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
