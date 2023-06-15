@@ -30,13 +30,14 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-  
+![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;  
 ![STYLED-COMPONENT](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![TAILWIND](https://img.shields.io/badge/tailwind-0C6291?style=for-the-badge&logo=tailwind&logoColor=white)&nbsp;
 ![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![DJANGO](https://img.shields.io/badge/Django-648767?style=for-the-badge&logo=django&logoColor=white)&nbsp;
   
 #
 
