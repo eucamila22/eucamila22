@@ -35,12 +35,9 @@
 ![DJANGO](https://img.shields.io/badge/Django-648767?style=for-the-badge&logo=django&logoColor=white)&nbsp;
   
 #
+**Estou aprendendo no momento:**
 
-<!-- **Estou aprendendo no momento:** -->
-
-<!-- ![ANGULAR](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp; -->
-<!-- ![JAVA](https://img.shields.io/badge/JAVA-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp; -->
-<!-- # -->
+![AWS](https://img.shields.io/badge/AWS-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
   
 <div align="center">
   <p align="centre"><b>Visitors Count</p>  
