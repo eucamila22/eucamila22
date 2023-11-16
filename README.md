@@ -32,7 +32,6 @@
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
 ![DJANGO](https://img.shields.io/badge/Django-648767?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-ffff00?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
 
